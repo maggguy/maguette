@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+
+}
+
+h2{
+    color: burlywood;
+
+}
+
+p:hover{
+   color: rgb(252, 158, 35);
+
+}
